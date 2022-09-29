@@ -1,5 +1,15 @@
 import java.util.*;
 
+/*
+ * NOTE:
+ * I'm logical enough to know how terrible this code is, but in the end it get's the job done.
+ * I will very likely look back at this code in the distant future, and future me, I apologize
+ * for being a very sub-optimal programmer/algorithmic thinker at this point in time, and hope you
+ * are at the stage in your programming career where you are able to fix this junk.
+ * Sincerely - past you
+ */
+
+
 public class Assignment2 {
     static int inputNumber;
     static Scanner input = new Scanner(System.in);
